@@ -1,0 +1,22 @@
+{
+  "name": "lab-node-express-getting-started",
+  "version": "1.0.0",
+  "description": "Getting started node server and express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suraj1297/lab-node-express-getting-started.git"
+  },
+  "author": "suraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suraj1297/lab-node-express-getting-started/issues"
+  },
+  "homepage": "https://github.com/suraj1297/lab-node-express-getting-started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
